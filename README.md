@@ -12,7 +12,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/codingCait
-[2]: www.linkedin.com/in/caitlin-wall-82899b214
+[2]: https://www.linkedin.com/in/caitlin-wall-82899b214/
 
 - 🔭 I’m currently working on exploring everything full-stack development has to offer! You can often find me working on a side project for fun outside of class.
 - 🌱 I’m currently learning back-end technologies. Will also be exploring React soon!
