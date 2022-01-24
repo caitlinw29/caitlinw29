@@ -21,6 +21,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a decent collection of gemstones, I love the unique colors in each stone! 
 
+## Skills
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=blue)
