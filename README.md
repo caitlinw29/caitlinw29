@@ -1,18 +1,18 @@
-### “It’s the job that’s never started as takes longest to finish.”— Sam Gamgee
+![Banner Image](https://github.com/caitlinw29/caitlinw29/blob/main/GithubBanner.png)
+### “It’s the job that’s never started as takes longest to finish.” — Samwise Gamgee
 
-<!-- Actual text -->
+<div align="center">
+<a href="https://github.com/caitlinw29" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/codingCait" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/caitlin-wall-82899b214/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
-
-<!-- Icons -->
-
-[1.2]: https://cdn.exclaimer.com/Handbook%20Images/twitter-icon_16x16.png
-[2.2]: https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_16x16.png
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/codingCait
-[2]: https://www.linkedin.com/in/caitlin-wall-82899b214/
 
 - 🔭 I’m currently working on exploring everything full-stack development has to offer! You can often find me working on a side project for fun outside of class.
 - 🌱 I’m currently learning back-end technologies. Will also be exploring React soon!
@@ -32,4 +32,3 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [![Caitlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=caitlinw29&show_icons=true&theme=tokyonight)](https://github.com/caitlinw29/github-readme-stats)
 #### Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caitlinw29&layout=compact)](https://github.com/caitlinw29/github-readme-stats)
-
