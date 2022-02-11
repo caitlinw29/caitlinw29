@@ -24,9 +24,13 @@
 ## Skills
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Express.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/SQL-informational?style=flat&logo=nodedotjs&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/NoSQL-informational?style=flat&logo=nodedotjs&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/VSC-informational?style=flat&logo=visualstudiocode&logoColor=white&color=ff69b4)
+![](https://img.shields.io/badge/Insomnia-informational?style=flat&logo=visualstudiocode&logoColor=white&color=ff69b4)
 
 
 #### Stats
